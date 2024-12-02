@@ -2,7 +2,7 @@
 Early stopping VI
 ==============================
 
-
+Zexuan Sun and Garvesh Raskutti. (2024) Reliable and scalable variable importance estimation via warm-start and early stopping, arXiv.
 
 
 ## Overview
