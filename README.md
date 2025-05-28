@@ -19,7 +19,7 @@ As opaque black-box predictive models become more prevalent, the need to develop
 
 ## Code
 This repo contains all the model implementation and experiments in the paper. 
-A complete example can be found in `EarlyStopping_Demo.ipynb`. 
+A complete example can be found in [`EarlyStopping_Demo.ipynb`](https://github.com/ZexuanSun/Early-stopping-VI/blob/main/codes/EarlyStopping_Demo.ipynb). 
 
 ## License
 ```
