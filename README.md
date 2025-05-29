@@ -5,7 +5,10 @@ Early stopping VI
 Sun, Z. and Raskutti, G. (2024) Reliable and scalable variable importance estimation via warm-start and early stopping, [arXiv:2412.01120](https://arxiv.org/abs/2412.01120v2) .
 
 
-Preliminary version of this work is accepted in [AISTATS 2025](https://proceedings.mlr.press/v258/sun25a.html). The poster of the conference paper can be found [here](https://virtual.aistats.org/virtual/2025/poster/9945).
+Preliminary version of this work is accepted in [AISTATS 2025](https://proceedings.mlr.press/v258/sun25a.html). 
+
+
+The poster of the conference paper can be found [here](https://virtual.aistats.org/virtual/2025/poster/9945).
 
 
 
